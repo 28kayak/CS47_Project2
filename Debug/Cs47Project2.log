@@ -1,16 +1,14 @@
-﻿4/2/2015 3:23:56 AM にビルドを開始しました。
+﻿4/3/2015 2:27:17 AM にビルドを開始しました。
      1>ノード 2 上のプロジェクト "C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Cs47Project2\Cs47Project2.vcxproj" (build ターゲット)。
      1>InitializeBuildStatus:
-         "Debug\Cs47Project2.unsuccessfulbuild" のタッチ タスクを実行しています。
+         "AlwaysCreate" が指定されたため "Debug\Cs47Project2.unsuccessfulbuild" を作成しています。
        ClCompile:
          すべての出力が最新のものです。
          c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Cs47Project2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Cs47Project2.cpp
          Cs47Project2.cpp
-     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(72): warning C4102: 'Des' : ラベルは 1 度も参照されません。
-     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(76): warning C4101: 'asc' : ローカル変数は 1 度も使われていません。
-     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(76): warning C4101: 'numlist' : ローカル変数は 1 度も使われていません。
-     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(42): warning C4731: 'sorter' : インライン アセンブラー コードにより変更されたフレーム ポインター レジスタ 'ebp' です。
-     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(100): warning C4700: 初期化されていないローカル変数 'fptr' が使用されます
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(86): warning C4101: 'fptr' : ローカル変数は 1 度も使われていません。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(85): warning C4101: 'asc' : ローカル変数は 1 度も使われていません。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(85): warning C4101: 'numlist' : ローカル変数は 1 度も使われていません。
        ManifestResourceCompile:
          すべての出力が最新のものです。
        Link:
@@ -30,4 +28,4 @@
 
 ビルドに成功しました。
 
-経過時間 00:00:01.16
+経過時間 00:00:01.14
