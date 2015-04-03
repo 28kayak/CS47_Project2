@@ -1,0 +1,33 @@
+﻿4/2/2015 3:23:56 AM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Cs47Project2\Cs47Project2.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\Cs47Project2.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Cs47Project2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Cs47Project2.cpp
+         Cs47Project2.cpp
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(72): warning C4102: 'Des' : ラベルは 1 度も参照されません。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(76): warning C4101: 'asc' : ローカル変数は 1 度も使われていません。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(76): warning C4101: 'numlist' : ローカル変数は 1 度も使われていません。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(42): warning C4731: 'sorter' : インライン アセンブラー コードにより変更されたフレーム ポインター レジスタ 'ebp' です。
+     1>c:\users\kaya\documents\visual studio 2010\projects\cs47project2\cs47project2\cs47project2.cpp(100): warning C4700: 初期化されていないローカル変数 'fptr' が使用されます
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Debug\Cs47Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Cs47Project2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Debug\Cs47Project2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Debug\Cs47Project2.lib" /MACHINE:X86 Debug\Cs47Project2.exe.embed.manifest.res
+         Debug\Cs47Project2.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Cs47Project2.exe.embed.manifest" /manifest Debug\Cs47Project2.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         Cs47Project2.vcxproj -> C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Debug\Cs47Project2.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\Cs47Project2.unsuccessfulbuild" を削除しています。
+         "Debug\Cs47Project2.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Kaya\documents\visual studio 2010\Projects\Cs47Project2\Cs47Project2\Cs47Project2.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.16
